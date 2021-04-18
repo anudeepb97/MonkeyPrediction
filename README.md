@@ -1,7 +1,17 @@
 # MonkeyPrediction
 
 ## This project mainly focuses on identify the monkey belongs to which species of this list
+
 - Mantled_howler
+- Patas_monkey 
+- Bald_uakari
+- Japanese_macaque
+- Pygmy_marmoset
+- White_headed_capuchin
+- Silvery_marmoset
+- Common_squirrel_monkey
+- Black_headed_night_monkey
+- Nilgiri_langur
  
  
 Dataset is collected from Kaggle(https://www.kaggle.com/slothkong/10-monkey-species)
