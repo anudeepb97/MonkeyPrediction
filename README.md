@@ -12,6 +12,8 @@
 - Common_squirrel_monkey
 - Black_headed_night_monkey
 - Nilgiri_langur
+
+![Screenshot](Monkeys.PNG)
  
  
 Dataset is collected from Kaggle(https://www.kaggle.com/slothkong/10-monkey-species)
