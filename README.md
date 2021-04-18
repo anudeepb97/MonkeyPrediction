@@ -1,6 +1,6 @@
 # MonkeyPrediction
 
-## This project mainly focuses on identify the monkey belongs to which species of this list
+## This project mainly focuses on identify the monkey that belongs to which species of the below list
 
 - Mantled_howler
 - Patas_monkey 
